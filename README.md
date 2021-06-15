@@ -8,5 +8,6 @@ The lot 1 and lot 2 meet design specification as the variance doesn't exceed 100
 The lot 3 doesn't meet the design specifications. See below table.
 
 <img width="357" alt="Untitled" src="https://user-images.githubusercontent.com/19679507/122117884-3fb11080-cddc-11eb-8b28-d9a8f4c4c2b2.png">
+
 ## T-Tests on Suspension Coils
 
