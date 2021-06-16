@@ -11,9 +11,13 @@ The lot 3 doesn't meet the design specifications. See below table.
 
 ## T-Tests on Suspension Coils
 According to the t-test result, the overall PSI across all manufacturing lots has p-value equal to 0.06028 wichi is larger than the common 0.05 percent. Therefore, we do not have sufficient evidence to reject the null hypothesis.
+
 P-value for Lot 1 is 1; P-value for lot 2 is 0.6072; P-value for lot 3 is 0.04168. The results indicate that for lot1 and lot 2, both p-value is larger than the common 0.05 percent and therefore we do not have sufficient evidence to reject the null hypothesis. Since Lot1 p-value is equal to 1, it suggests that there is no difference between lot 1 group and the population group.
+
 Since for lot 3 p-value (0.04168) is smaller than the common 0.05 percent. Therefore, we have sufficient evidence to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
-
-
+- The metrics that would be of interest to a consumer is highway fuel efficiency. 
+- The null hypothesis is there is no relationship between the sales amount and the highway feul efficiency measure. 
+- We will apply simple Linear regression to test the hypothesis. This is because our data type is expected to be continuous data for both independent and dependent. 
+- The data we need to run the statistical test are the sales for different type of car and the correspoding feul efficiency for each type.
